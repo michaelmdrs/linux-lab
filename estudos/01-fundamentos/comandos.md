@@ -1,0 +1,12 @@
+-> cal nov 2026 # Exibe um calendário do mes e ano
+-> ls /bin # Liste o conteudo do diretorio bin
+-> df -h # Veja o quanto esta sendo ocupado pelo disco rigido
+->
+->
+->
+->
+->
+->
+->
+->
+

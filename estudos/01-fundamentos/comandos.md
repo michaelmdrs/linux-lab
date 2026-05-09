@@ -1,10 +1,10 @@
 -> cal nov 2026 # Exibe um calendário do mes e ano
 -> ls /bin # Liste o conteudo do diretorio bin
 -> df -h # Veja o quanto esta sendo ocupado pelo disco rigido
-->
-->
-->
-->
+-> ls /bin # Lista o conteudo diretorio bin
+-> ls $HOME | wc -l # Conta o numero de items visiveis no diretorio
+-> top -d1 # Exibe os processos que estão sendo executado, pressionando 'q' sai do monitor
+-> last $USER -1 # Exibe o tempo do login do usuario
 ->
 ->
 ->

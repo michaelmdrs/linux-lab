@@ -28,4 +28,5 @@ Como já utilizo Linux no meu dia-a-dia, o capítulo 1 foi apenas para rever alg
 
 O capítulo 1 também mostra o que cada diretório do sistema de arquivos "principal" contém e quais finalidades, assim fica melhor a compreensão do que cada diretório é responsável e quais podemos ou não manipular arquivos ou fazer alterações.
 
+Hoje a leitura foi de revisão, revendo os principais diretorios e o que cada um é responsável e vi também sobre permissões o que cada o usuário tem liberdade de fazer ou não dentro do ecossistema de diretorios.
 

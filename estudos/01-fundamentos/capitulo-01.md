@@ -30,3 +30,19 @@ O capítulo 1 também mostra o que cada diretório do sistema de arquivos "princ
 
 Hoje a leitura foi de revisão, revendo os principais diretorios e o que cada um é responsável e vi também sobre permissões o que cada o usuário tem liberdade de fazer ou não dentro do ecossistema de diretorios.
 
+
+20/05/2026
+Revisei sobre caminhos relativos e absolutos e as categorias comuns como por exemplo:
+
+categorias de programas:
+/bin - arquivos binarios 
+/sbin - arquivos binarios para superusuarios
+/lib - bibliotecas de codigos
+
+categorias de documentação:
+/doc - documentação
+/info - arquivos de informação
+/man - manipular
+
+
+
